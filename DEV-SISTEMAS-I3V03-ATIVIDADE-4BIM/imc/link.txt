@@ -1,0 +1,3 @@
+Repositório Git do código do IMC
+Desenvolvedor: João Carlos Pereira Alves
+https://github.com/joaocarlopa/Calculadora-IMC.git
